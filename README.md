@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cfuenjr/FLANTech-DBAS">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src=https://github.com/cfuenjr/FLANTech-DBAS/assets/155736962/1805b903-7f6e-4d19-a492-3e60ae78e6c0 alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">Dual Biometric Authentication System</h3>
@@ -153,6 +153,7 @@ Project Link: [(https://github.com/cfuenjr/FLANTech-DBAS/)](https://github.com/c
 [advisor-url]: https://ece.uic.edu/profiles/loay-abu-salah-phd/
 [faculty-url]: https://ece.uic.edu/profiles/renata-revelo-phd/
 [manager-url]: https://ece.uic.edu/profiles/flowers-anthony/
+![FlanTechLogo](https://github.com/cfuenjr/FLANTech-DBAS/assets/155736962/1805b903-7f6e-4d19-a492-3e60ae78e6c0)
 [contributors-shield]: https://img.shields.io/github/contributors/cfuenjr/FLANTech-DBAS.svg?style=for-the-badge
 [contributors-url]: https://github.com/cfuenjr/FLANTech-DBAS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/cfuenjr/FLANTech-DBAS.svg?style=for-the-badge
