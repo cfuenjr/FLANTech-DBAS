@@ -153,7 +153,7 @@ Project Link: [(https://github.com/cfuenjr/FLANTech-DBAS/)](https://github.com/c
 [issues-shield]: https://img.shields.io/github/issues/cfuenjr/FLANTech-DBAS.svg?style=for-the-badge
 [issues-url]: https://github.com/cfuenjr/FLANTech-DBAS/issues](https://github.com/cfuenjr/FLANTech-DBAS/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/cfuenjr/FLANTech-DBAS.svg?style=for-the-badge
-[license-url]: https://github.com/cfuenjr/FLANTech-DBAS/LICENSE.txt
+[license-url]: https://github.com/cfuenjr/FLANTech-DBAS/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cesarfuentesjr
 [nate-linkedin-url]: https://linkedin.com/in/nathan-nguyen369
