@@ -1,13 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -82,10 +74,8 @@ Current security systems, including keycard readers and keypads that are widely 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+![03121-ezgif com-video-to-gif-converter](https://github.com/cfuenjr/FLANTech-DBAS/assets/155736962/04e49ffb-601f-4773-bea9-cb73b89b37de)
+![0312-ezgif com-video-to-gif-converter](https://github.com/cfuenjr/FLANTech-DBAS/assets/155736962/f4864147-4009-4239-8e1f-86d6fa3575b5)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,7 +143,7 @@ Project Link: [(https://github.com/cfuenjr/FLANTech-DBAS/)](https://github.com/c
 [advisor-url]: https://ece.uic.edu/profiles/loay-abu-salah-phd/
 [faculty-url]: https://ece.uic.edu/profiles/renata-revelo-phd/
 [manager-url]: https://ece.uic.edu/profiles/flowers-anthony/
-![FlanTechLogo](https://github.com/cfuenjr/FLANTech-DBAS/assets/155736962/1805b903-7f6e-4d19-a492-3e60ae78e6c0)
+[FlanTechLogo]: https://github.com/cfuenjr/FLANTech-DBAS/assets/155736962/1805b903-7f6e-4d19-a492-3e60ae78e6c0
 [contributors-shield]: https://img.shields.io/github/contributors/cfuenjr/FLANTech-DBAS.svg?style=for-the-badge
 [contributors-url]: https://github.com/cfuenjr/FLANTech-DBAS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/cfuenjr/FLANTech-DBAS.svg?style=for-the-badge
