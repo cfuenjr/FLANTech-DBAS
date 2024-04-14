@@ -16,8 +16,6 @@ This project includes several Python scripts that contribute to a system designe
 
 - **video_capture.py**: Facilitates video capturing functionalities.
 
-- **debug.py**: Provides utilities for debugging.
-
 - **Enrollment.py**: Manages the enrollment process of users into the system.
 
 - **Fingerprint_Matching.py**: Implements fingerprint matching algorithms.
